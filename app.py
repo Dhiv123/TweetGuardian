@@ -18,12 +18,12 @@ import base64
 
 app = Flask(__name__,template_folder="templates",static_folder="static")
 
-app.secret_key = 'secret@1234'
+app.secret_key = ''
 
 mydbConn = mdb.connect(
   host="localhost",
   user="root",
-  password="Madhu@18",
+  password="",
   database="hate_speech_project"
 )
 curr = mydbConn.cursor(mdb.cursors.DictCursor)
