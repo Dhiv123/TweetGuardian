@@ -1,4 +1,4 @@
-# TweetShield 🛡️  
+# TweetGuardian 🛡️  
 **Proactive Offensive Content Filter for Twitter**
 
 TweetShield is a real-time tweet moderation tool that detects hate speech and offensive language **before** a tweet is posted. Unlike traditional moderation systems that act *after* user reports, TweetShield takes a **proactive approach** to prevent harmful content from being published in the first place.
@@ -35,7 +35,4 @@ TweetShield is a real-time tweet moderation tool that detects hate speech and of
    - If **potentially harmful**, the tweet is **flagged**.
    - Else, it's **allowed** to post.
 
----
-
-## 📂 Project Structure
 
